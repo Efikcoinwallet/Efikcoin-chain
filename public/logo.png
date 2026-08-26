@@ -1,0 +1,3 @@
+git add public/logo.png
+git commit -m "Final River Stone Ring - Mainnet Seal 20488"
+git push origin main
